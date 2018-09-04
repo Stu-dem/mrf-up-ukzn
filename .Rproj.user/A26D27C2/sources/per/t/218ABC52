@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535956562539.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2983103532",
+    "id" : "218ABC52",
+    "lastKnownWriteTime" : 1536063063,
+    "last_content_update" : 1536063063806,
+    "path" : "~/R/Projects/hugoForty/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "133,0",
+        "scrollLine" : "125"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

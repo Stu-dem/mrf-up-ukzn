@@ -1,0 +1,9 @@
+{
+    "path" : "~/R/Projects/hugoForty/content/blogs",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
