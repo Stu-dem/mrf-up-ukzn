@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2752951537",
+    "hash" : "0",
     "id" : "31879299",
     "lastKnownWriteTime" : 1536062775,
     "last_content_update" : 1536062775565,
-    "path" : "~/R/Projects/hugoForty/content/blogs/blog4.md",
+    "path" : "~/GitHub/mrf-up-ukzn/content/blogs/blog4.md",
     "project_path" : "content/blogs/blog4.md",
     "properties" : {
         "cursorPosition" : "33,53",
-        "scrollLine" : "16"
+        "scrollLine" : "0"
     },
     "relative_order" : 5,
     "source_on_save" : false,
