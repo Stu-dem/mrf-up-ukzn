@@ -7,7 +7,7 @@ keywords: ""
 categories: 
     - ""
     - ""
-date: 2019-09-03T22:26:09-05:00
+date: 2018-09-03T22:26:09-05:00
 draft: false
 ---
 ### 1. What are you still learning and grappling with about yourself and how you tend to approach issues of reconciliation?
