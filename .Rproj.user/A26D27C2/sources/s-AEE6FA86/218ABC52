@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3723773510",
     "id" : "218ABC52",
-    "lastKnownWriteTime" : 1536063063,
-    "last_content_update" : 1536063063806,
+    "lastKnownWriteTime" : 1536084522,
+    "last_content_update" : 1536084522782,
     "path" : "~/GitHub/mrf-up-ukzn/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "126,37",
-        "scrollLine" : "105"
+        "cursorPosition" : "1,11",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
